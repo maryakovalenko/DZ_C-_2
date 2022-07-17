@@ -14,8 +14,7 @@ if (number >= 1 && number <= 7)
 if ( number==6 || number==7)
 {
     Console.Write(" - Выходной день.");
-}
-}
+}}
 else
 {
     Console.WriteLine("Этого дня не существует!!!");

@@ -10,4 +10,3 @@ Console.WriteLine("Исходное число: " + number);
 
 number2 = (number/10) % 10;
 Console.WriteLine("Исходное число: " + number2);
-

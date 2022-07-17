@@ -18,7 +18,3 @@ void hasThirdNumber(int x) {
  hasThirdNumber(645);
  hasThirdNumber(78);
  hasThirdNumber(32679);
-
-       
-    
-
